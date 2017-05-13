@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>Resources/Images/3floppy mount.png</file>
+        <file>Resources/Images/12930BQ4F-46337.png</file>
+        <file>Resources/Images/document_export.png</file>
+        <file>Resources/Images/logout256.png</file>
+        <file>Resources/Images/folder-document2.png</file>
+        <file>Resources/Images/add_user.png</file>
+        <file>Resources/Images/Edit user.png</file>
+        <file>Resources/Images/Remove user.png</file>
+        <file>Resources/Images/bullet-question-w-o.png</file>
+        <file>Resources/Images/info.png</file>
+        <file>Resources/Images/search.png</file>
+        <file>Resources/Images/export-to-file.png</file>
+        <file>Resources/Images/131Y015163P-15291.png</file>
+        <file>Resources/Images/contact.png</file>
+        <file>Resources/Images/20088721562364077806.png</file>
+    </qresource>
+</RCC>
